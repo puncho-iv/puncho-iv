@@ -2,7 +2,7 @@
 
 I am mants3, a proactive extraordinary engineer and designer.
 
-Big fan of basketball and trips
+Big fan of basketball and seeing new places
 
 Experience 
 
