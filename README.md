@@ -3,10 +3,10 @@
 
 I’m Ebenezer Clottey, a proactive and versatile engineer and designer with a passion for basketball and exploring new places.
 
-Experience
+**Experience**
 
 I specialize in React Native, where I’m currently developing a mobile application aimed at connecting clients with artisans for their everyday needs. The application uses GraphQL for efficient and optimized data retrieval.
-                                                                                                                                                                                                                                                                    Tech: React Native | Nest | Redux | React | Nuxt
+                                                                                                                                                                                                                                                                    **Tech: React Native | Nest | Redux | React | Nuxt**
  
 I have also worked on proects which gave me experience in react js, react native, nuxt and redux. Some projects are:
 
