@@ -13,9 +13,9 @@ I have also worked on proects which gave me experience in react js, react native
           • MTN|aYo Pay and Drive(https://app.ayoghana.com/)
           • MTN|aYo Pay and Drive Admin System(https://adminpayd.ayoghana.com/) request test logins 
           • MTN|aYo Annual Cover Admin System ()
-          • MTN|aYo Landing Page 
+          • MTN|aYo Landing Page (https://pnd-landing-page-9qwyk.ondigitalocean.app/)
           • UniSalad Mobile App (https://www.unisalad.com/)
-          • POs system (https://pos-mjsq.onrender.com/)
+          • POs system (request access)
  
 Additional Skills: Data Annotation | Machine Learning (beginner)
 
